@@ -9,10 +9,10 @@ and association between restaurants and neighborhoods. We have used Bayesian
 framework, regression model and Linear discriminant analysis for our ob jectives.
 
 Contents:
-EDA
-Gibbs Sampling
-Annova Test/TukeyHSD
-Linear Regression: AIC & BIC
-MCMC Regression
-Latent Class Analysis
+EDA,
+Gibbs Sampling,
+Annova Test/TukeyHSD,
+Linear Regression: AIC & BIC,
+MCMC Regression,
+Latent Class Analysis,
 
