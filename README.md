@@ -1,9 +1,18 @@
 # StatisticalModelling_BusinessReviewTorronto_YelpAcademicDataset
 
-This analysis is based on Yelp dataset, Our fo cus will b e based sp ecifically on city
-of Toronto. Usually we assume that high numb er of reviews accounts for b etter
-restaurants. Users are drawn towards restaurants with high numb er of review
-count, ratings as they are eas ily understandable.In this study we compare the
-ratings of different neighb orho o ds, variables that influence rating of a restaurant
-and asso ciation b etween restaurants and neighb orho o ds. We have used Bayesian
-framework, regression mo del and Linear discriminant analysis for our ob jectives.
+This analysis is based on Yelp dataset, Our focus will b e based specifically on city
+of Toronto. Usually we assume that high number of reviews accounts for better
+restaurants. Users are drawn towards restaurants with high number of review
+count, ratings as they are easily understandable.In this study we compare the
+ratings of different neighborhoods, variables that influence rating of a restaurant
+and association between restaurants and neighborhoods. We have used Bayesian
+framework, regression model and Linear discriminant analysis for our ob jectives.
+
+Contents:
+EDA
+Gibbs Sampling
+Annova Test/TukeyHSD
+Linear Regression: AIC & BIC
+MCMC Regression
+Latent Class Analysis
+
