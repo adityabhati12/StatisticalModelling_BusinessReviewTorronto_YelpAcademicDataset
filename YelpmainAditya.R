@@ -12,15 +12,10 @@ library(mcmc)
 library(tidyverse)
 ########################################################################################
 
-YelpMain <- readRDS("D:/aditya/TRINITY/Statistical Modeling/review_business_merge.rds")
+YelpMain <- readRDS("Statistical Modeling/review_business_merge.rds")
 
-YelpBusiness <- readRDS("D:/aditya/TRINITY/Statistical Modeling/abcd.rds")
-#review <- stream_in(file("/users/pgrad/bhatia/Desktop/adityA/dataset/review.json"))
-  
-#business <- stream_in(file("/users/pgrad/bhatia/Desktop/adityA/dataset/business.json"))
+YelpBusiness <- readRDS("Statistical Modeling/abcd.rds")
 
-#business_torronto <- stream_in(file("/users/pgrad/bhatia/Desktop/adityA/dataset/business_open_Toronto.json"))
-#user <- stream_in(file("/users/pgrad/bhatia/Desktop/adityA/dataset/user.json"))
 ###########################################################################################################
 
 # Merging datasets
